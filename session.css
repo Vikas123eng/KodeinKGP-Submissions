@@ -1,0 +1,49 @@
+﻿body{
+    background-color:rgb(231, 239, 241);
+position: relative;
+    
+}
+body h1{
+    text-transform: uppercase;
+    text-decoration: underline red;
+    text-shadow: 0cap;
+    text-align: center;
+    
+    
+    
+}
+
+
+#demobutton:hover{
+    background-color:rgb(163, 23, 23);
+    color:aqua;
+    
+    
+   
+}
+.container{
+    
+        border:3px dotted #ccc;
+        padding:20px;
+        margin:20px 0;
+        
+    /*flex-direction: column;
+    align-items: center;
+    justify-content: center;*/
+        
+    
+}
+#demobutton{
+    display: block;
+    margin: 0 auto;
+    
+    background-color: blue;
+    padding:15px 25px;
+    color: red;
+    border:none;
+    
+    
+}
+
+
+
