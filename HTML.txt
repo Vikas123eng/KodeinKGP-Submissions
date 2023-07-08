@@ -1,2 +1,0 @@
-HTML
-1. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
